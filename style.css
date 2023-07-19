@@ -1,0 +1,153 @@
+.background-color{
+    background-color: white;
+    height: 150vh;
+}
+#carsoul-images{
+    height: 80vh;
+    width: 100vw;
+    
+
+}
+.amzone-logo{
+    height: 40px;
+    width: 40px;
+}
+#nav-bar-color{
+    color: black;
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+}
+.buying-logo{
+     height: 40px;
+     width: 40px;
+    margin-top: 50px;
+    
+}
+p{
+    padding-top: 55px;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(243, 9, 9);
+    font-weight: 900;
+}
+.bottom-contenr{
+    background-color: white;
+    height: 50vh;
+    width: 70vw;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+h1{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.category-images{
+    height: 20vh;
+    width: 20vw;
+    padding-left: 30px;
+}
+.next-contenr{
+    background-color: rgb(245, 244, 244);
+    height: 130vh;
+    width: 70vw;
+    margin-left: 200px;
+   
+    border-radius: 30px;
+}
+.heading{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.headset-images{
+    height: 160vh;
+    width: 50vw;
+    padding-bottom: 400px;
+}
+#count-one{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+   margin-top: 60px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 22px;
+    padding-right: 40px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+.prodest-delets{
+    font-size: 10px;
+}
+.button{
+    color: white;
+    background-image: linear-gradient(#8008f0, #7209c7);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-color: aliceblue;
+}
+.expoler-heading{
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.next-contenr-2{
+    background-color: white;
+    height: 130vh;
+    width: 70vw;
+    margin-left: 200px;
+   
+    border-radius: 30px;
+}
+.rating-logo{
+    height: 30px;
+    width: 60px;
+    margin-bottom: 40px;
+}
+.rating-paragarph-1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(250, 14, 14);
+    font-weight: 900;
+} 
+.rating-paragarph{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 900;
+    padding-bottom: 40px;
+}  
+.itams-rating{
+    padding-left: 60px;
+}
+.follows-us-icons {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    margin: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 22px;
+    padding-right: 40px;
+    border-radius: 40px;
+}
+.tiwtter {
+    font-size: 35px;
+    color: #055ff0;
+
+}
+
+.instargram {
+    font-size: 35px;
+    color: #e82c35;
+}
+.follwes-heading{
+    padding-top: 100px;
+}
